@@ -1,0 +1,24 @@
+h1{
+    color:#00ffff;
+    font-size:50px;
+    font-weight: bold;
+    font-family: "Inpact";
+    text-align: center;
+    background-color: #555555;
+}
+h2{
+    color:#00cccc;
+    font-weight: bold;
+    font-family: "Inpact";
+    text-align: center;
+}
+body{
+    background-image: url(../images/33d093d859f01db36c7b2ec942493a7b.jpg);
+}
+h3{
+    color:#22abdc;
+    
+}
+h4{
+    color:darkmagenta;
+}
