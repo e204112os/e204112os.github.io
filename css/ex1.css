@@ -1,0 +1,28 @@
+p{
+    background-color: cornsilk;
+    background-image: url(../images/20191219181734.jpg);
+}
+table{
+    background-color: cyan
+}
+h1{
+    color:#00ffff;
+    font-size:50px;
+    font-weight: bold;
+    font-family: "Inpact";
+    text-align: center;
+    background-color: #555555;
+}
+h2{color:#00dddd;
+    font-weight: bold;
+    font-family: "Inpact";
+    text-align: center;
+    background-color: blueviolet;}
+
+body{
+    background-image:url(../images/33d093d859f01db36c7b2ec942493a7b.jpg);
+    background-repeat: repeat-y;
+    background-attachment: fixed
+    
+    
+}
