@@ -1,0 +1,29 @@
+.bluecolor{
+    color: blue;
+    
+}
+.color{
+    color: fuchsia;
+}
+h1#gabu{
+    font-size: 60px;
+    color: blue;
+    background-color: beige
+}
+h1#ota{
+    font-size: 60px;
+    color: crimson;
+    background-color: dodgerblue
+}
+h2#hand{
+    color:red;
+}
+h2{
+    color:green;
+}
+h2:hover{
+    background-color: aqua;
+}
+body{
+    background-image: url(../images/33d093d859f01db36c7b2ec942493a7b.jpg);
+}

@@ -1,0 +1,26 @@
+p.bluecolor{
+    color: blue;
+    
+}
+h1#gabu{
+    font-family: impact;
+    font-size: 60px;
+    color: blue
+}
+h1#ota{
+    font-family: impact;
+    font-size: 60px;
+    color: crimson
+}
+h2{
+    color:red !important;
+}
+h2{
+    color:green;
+}
+h2:hover{
+    background-color: aqua;
+}
+body{
+    background-image: url(../images/33d093d859f01db36c7b2ec942493a7b.jpg);
+}
