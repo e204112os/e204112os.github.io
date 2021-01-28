@@ -1,0 +1,87 @@
+div.wrap{
+    width:1000px;
+    margin:0px auto;
+}
+div.title{
+    width: 980px;
+    height: 90px;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Impact";
+    margin-bottom: 20px;
+    padding: 10px 0px 0px 20px;
+}
+
+span.menuitem{
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+    background-color:bisque;
+    background-color: darkgoldenrod;
+    color: floralwhite;
+    text-align: center;
+    font-size: 30px;
+    border: 5px dotted blue;
+        
+    
+}
+
+
+span.setumei{
+    display: inline-block;
+    width: 300px;
+    height: 90px;
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    border: 5px dotted black;
+    
+}
+span.setumei2{
+    display: inline-block;
+    width: 900px;
+    height: 150px;
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    border: 5px dotted black;
+    
+}
+span.image1{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    background-color: deeppink;
+    
+        
+}
+span.image2{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    background-color: deeppink;
+}
+div.article{
+     width: 1000px;
+    height: 100px;
+    background-color: white;
+    font-size: 15px;
+    text-align: center;
+}
+div.footer{
+     width: 1000px;
+    height: 50px;
+    background-color: coral;
+    font-size: 15px;
+    text-align: right
+}
+
+div.menu{
+    font-size: 0;
+}
+div.images{
+    font-size: 0;
+}
